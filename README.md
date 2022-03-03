@@ -15,7 +15,7 @@ pfsense에서 Public zone은 인터넷이 될 수 있게 Source NAT를 구성해
 ## 환경구성
 ![구성도](https://user-images.githubusercontent.com/71689654/156573315-f9f8bb7c-381c-41cb-963a-0cbab0d48be1.png)
 
-- Virtuak Box
+- Virtual Box
 - ubuntu 20.04 with NIC 2EA(Public zone, Private zone)
 - pfsense
 - Public zone - calico
