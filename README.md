@@ -6,7 +6,7 @@
 - Kubernetest v1.23(링크)https://kubernetes.io/docs/home/
 - calico v3.22(링크)https://projectcalico.docs.tigera.io/getting-started/kubernetes/requirements
 - multus v3.8(링크)https://github.com/k8snetworkplumbingwg/multus-cni
-- pfsense 2.6.0(링크)https://www.pfsense.org/
+- [pfsense 2.6.0](https://www.pfsense.org/)
 
 ## 환경구성
 ![구성도](https://user-images.githubusercontent.com/71689654/156573315-f9f8bb7c-381c-41cb-963a-0cbab0d48be1.png)
