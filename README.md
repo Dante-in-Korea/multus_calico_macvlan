@@ -8,6 +8,7 @@ pfsense에서 Public zone은 인터넷이 될 수 있게 Source NAT를 구성해
 ## Kubernetes 실습 환경
 
 - [Kubernetest v1.23](https://kubernetes.io/docs/home/)
+- [containerd v1.4.12](https://github.com/containerd/containerd)
 - [calico v3.22](https://projectcalico.docs.tigera.io/getting-started/kubernetes/requirements)
 - [multus v3.8](https://github.com/k8snetworkplumbingwg/multus-cni)
 - [pfsense 2.6.0](https://www.pfsense.org/)
