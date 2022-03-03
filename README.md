@@ -1,4 +1,6 @@
 # multus_calico_macvlan
+해당 랩은 pfsense 및 kubernetes 클러스터가 구축되어있다는 가정하에 진행한다.
+
 
 
 ## Kubernetes 실습 환경
