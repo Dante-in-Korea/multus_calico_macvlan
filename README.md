@@ -3,9 +3,9 @@
 
 ## Kubernetes 실습 환경
 
-- Kubernetest v1.23(링크)https://kubernetes.io/docs/home/
-- calico v3.22(링크)https://projectcalico.docs.tigera.io/getting-started/kubernetes/requirements
-- multus v3.8(링크)https://github.com/k8snetworkplumbingwg/multus-cni
+- [Kubernetest v1.23](https://kubernetes.io/docs/home/)
+- [calico v3.22](https://projectcalico.docs.tigera.io/getting-started/kubernetes/requirements)
+- [multus v3.8](https://github.com/k8snetworkplumbingwg/multus-cni)
 - [pfsense 2.6.0](https://www.pfsense.org/)
 
 ## 환경구성
