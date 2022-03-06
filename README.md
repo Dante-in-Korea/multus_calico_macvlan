@@ -3,7 +3,6 @@
 
 pfsense에서 Public zone은 인터넷이 될 수 있게 Source NAT를 구성해야하며, Private zone은 인터넷 통신이 불가하다.
 
-단, Web Service 이용 시 Private zone에 배포하여 Client는 Public zone을 통해 서비스가 접근 되도록 설정한다.
 
 ## Kubernetes 실습 환경
 
